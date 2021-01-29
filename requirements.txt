@@ -3,3 +3,5 @@ import sqlite3.py==0.16.12
 import datetime.py==0.16.12
 import asyncio.py==0.16.12
 import time.py==0.16.12
+import tasks.py==0.16.12
+import cycle.py==0.16.12
