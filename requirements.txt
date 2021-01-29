@@ -1,5 +1,5 @@
-pip install discord.py==0.16.12
-pip install datetime.py==0.16.12
-pip install asyncio.py==0.16.12
-pip install selenium.py==0.16.12
-pip install configparser.py==0.16.12
+import discord.py==0.16.12
+import sqlite3.py==0.16.12
+import datetime.py==0.16.12
+import asyncio.py==0.16.12
+import time.py==0.16.12
