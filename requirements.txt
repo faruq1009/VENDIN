@@ -1,0 +1,5 @@
+pip install discord.py==0.16.12
+pip install datetime.py==0.16.12
+pip install asyncio.py==0.16.12
+pip install selenium.py==0.16.12
+pip install configparser.py==0.16.12
